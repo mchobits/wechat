@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/mchobits/wechat/mp/core"
 )
 
 const (

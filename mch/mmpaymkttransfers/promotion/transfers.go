@@ -1,7 +1,7 @@
 package promotion
 
 import (
-	"github.com/chanxuehong/wechat/mch/core"
+	"github.com/mchobits/wechat/mch/core"
 )
 
 // 企业付款.

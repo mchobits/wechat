@@ -15,8 +15,8 @@ import (
 
 	"github.com/chanxuehong/util"
 
-	"github.com/chanxuehong/wechat/mch/core"
-	wechatutil "github.com/chanxuehong/wechat/util"
+	"github.com/mchobits/wechat/mch/core"
+	wechatutil "github.com/mchobits/wechat/util"
 )
 
 type DownloadBillRequest struct {

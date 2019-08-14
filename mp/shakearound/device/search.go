@@ -3,8 +3,8 @@ package device
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/internal/util"
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/mchobits/wechat/internal/util"
+	"github.com/mchobits/wechat/mp/core"
 )
 
 type SearchQuery struct {

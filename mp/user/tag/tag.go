@@ -1,7 +1,7 @@
 package tag
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/mchobits/wechat/mp/core"
 )
 
 type Tag struct {

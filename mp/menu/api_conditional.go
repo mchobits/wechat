@@ -1,7 +1,7 @@
 package menu
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/mchobits/wechat/mp/core"
 )
 
 // 创建个性化菜单.

@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"github.com/chanxuehong/wechat/mch/core"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/mchobits/wechat/mch/core"
+	"github.com/mchobits/wechat/util"
 )
 
 // ShortURL 转换短链接.
