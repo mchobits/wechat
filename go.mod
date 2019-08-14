@@ -1,4 +1,5 @@
-module github.com/chanxuehong/wechat
+// forked from chanxuehong/wechat
+module github.com/mchobits/wechat
 
 go 1.12
 
